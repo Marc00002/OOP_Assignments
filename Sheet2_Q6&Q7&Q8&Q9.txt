@@ -1,0 +1,16 @@
+Q6)
+
+a) no-Arg constructor is invoked in A
+B) constructor has no parameters in B
+
+Q7)
+
+Line 21 super(radius)
+
+Q8)
+
+Overriden
+
+Q9)
+
+Syntax Error
